@@ -1,0 +1,25 @@
+# Deeksha Sharma
+
+> Senior AI Product Manager portfolio, four zero-to-one launches across fintech, climate, and regulated domains.
+
+Deeksha Sharma is a Senior AI Product Manager and engineer who ships zero-to-one products where AI meets real-world complexity. The site includes work case studies, personal AI builds, skills, writing, and contact details.
+
+## Pages
+
+- [Home](/): Introduction, impact stats, and selected work preview.
+- [About](/about): Deeksha's story, principles, and background.
+- [Projects](/case-studies): Production case studies and personal AI builds.
+- [Skills](/skills): Technical skills, product capabilities, and tools.
+- [Writing](/writing): Essays and notes on AI product management.
+- [Now](/now): What Deeksha is working on right now.
+- [Contact](/contact): How to get in touch.
+
+## Case Studies
+
+- [Shipping AI into mortgage operations](/case-studies/real-estate-fintech): Compliance-first AI in a Series D real estate fintech.
+- [First-of-kind LLM ESG intelligence](/case-studies/climate-founding-first-employee): Climate tech founding PM role saving 100+ analyst hours a month.
+
+## Optional
+
+- [LinkedIn](https://linkedin.com/in/deekshasharma-pm): Professional profile and background.
+- [GitHub](https://github.com/strategicsages): Code and personal AI builds.
